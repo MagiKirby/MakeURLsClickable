@@ -1,1 +1,22 @@
-
+{
+  "manifest_version": 2,
+  "name": "MakeURLsClickable",
+  "version": "1.1",
+  "description": "Convert plain text URLs into clickable links",
+  "homepage_url": "https://github.com/MagiKirby",
+  "author": "MagiKirby",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content_script.js"]
+    }
+  ],
+  "icons": {
+    "16": "icons/16.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  }
+}
