@@ -5,20 +5,20 @@
 
 
 <br/> 
-<br/> 
+
+
+
 <p align="center">
 <h1 align="center">DOWNLOAD HERE</h1>
 </p>
 
 <p align="center">
   <a href="https://addons.mozilla.org/en-US/firefox/addon/makeurlsclickable/">
-    <img src="https://camo.githubusercontent.com/02b14785b7c3ceca373e79f38eba146affc188ebabf3b0eab701af2f2fae911b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265666f782d3134316532342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f782d62726f77736572266c6f676f436f6c6f723d7768697465" alt="Firefox Extension" />
+    <img src="https://camo.githubusercontent.com/02b14785b7c3ceca373e79f38eba146affc188ebabf3b0eab701af2f2fae911b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265666f782d3134316532342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f782d62726f77736572266c6f676f436f6c6f723d7768697465" alt="Firefox Extension" width="400" />
   </a>
 </p>
 
 
-
-[![FirefoxExtension](https://camo.githubusercontent.com/02b14785b7c3ceca373e79f38eba146affc188ebabf3b0eab701af2f2fae911b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265666f782d3134316532342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f782d62726f77736572266c6f676f436f6c6f723d7768697465)](https://addons.mozilla.org/en-US/firefox/addon/makeurlsclickable/)
 
 
 <br/>
@@ -33,6 +33,13 @@ Convert plain text URLs into clickable links
 Make URLs Clickable for Android Firefox. Makes all text a Clickable URL if it starts with "http://", "https://", or "www."
 
 <br/> 
+
+<p align="center">
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/makeurlsclickable/">
+    <img src="https://camo.githubusercontent.com/02b14785b7c3ceca373e79f38eba146affc188ebabf3b0eab701af2f2fae911b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265666f782d3134316532342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f782d62726f77736572266c6f676f436f6c6f723d7768697465" alt="Firefox Extension" />
+  </a>
+</p>
+
 
 [![FirefoxExtension](https://camo.githubusercontent.com/02b14785b7c3ceca373e79f38eba146affc188ebabf3b0eab701af2f2fae911b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265666f782d3134316532342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f782d62726f77736572266c6f676f436f6c6f723d7768697465)](https://addons.mozilla.org/en-US/firefox/addon/makeurlsclickable/)
 
