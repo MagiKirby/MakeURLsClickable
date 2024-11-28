@@ -30,12 +30,13 @@
 
 
 <p align="left">
-  <img src="https://addons.mozilla.org/user-media/addon_icons/2882/2882493-128.png?raw=true" alt="Sublime's custom image"/>
+  <img src="[https://addons.mozilla.org/user-media/addon_icons/2882/2882493-128.png](https://github.com/user-attachments/assets/3d7697df-1802-4846-b035-b24408a2f16c)?raw=true" alt="Extension OFF 1"/>
   <img src="https://addons.mozilla.org/user-media/addon_icons/2882/2882493-128.png?raw=true" alt="Sublime's custom image"/>
   <img src="https://addons.mozilla.org/user-media/addon_icons/2882/2882493-128.png?raw=true" alt="Sublime's custom image"/>
   <img src="https://addons.mozilla.org/user-media/addon_icons/2882/2882493-128.png?raw=true" alt="Sublime's custom image"/>
   <img src="https://addons.mozilla.org/user-media/addon_icons/2882/2882493-128.png?raw=true" alt="Sublime's custom image"/>
 </p>
+![Image1](https://github.com/user-attachments/assets/3d7697df-1802-4846-b035-b24408a2f16c)
 
 
 
