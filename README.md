@@ -1,4 +1,9 @@
+<p align="center">
 ![Extension Logo](https://addons.mozilla.org/user-media/addon_icons/2882/2882493-128.png?modified=96e286d2&1732753477243)
+</p>
+
+
+
 
 <br/> 
 <br/> 
