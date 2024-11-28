@@ -28,6 +28,7 @@
 
 <br/>
 <br/>
+<br/>
 
 
 
@@ -36,17 +37,17 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3d7697df-1802-4846-b035-b24408a2f16c?raw=true" alt="Extension OFF 1"  width="175" height="352"/>
 
-  <img src="https://github.com/user-attachments/assets/1d5cb02b-56e8-4bb9-9311-83a08f58c00e?raw=true" alt="Extension OFF 1"  width="175" height="352"/>
+  <img src="https://github.com/user-attachments/assets/1d5cb02b-56e8-4bb9-9311-83a08f58c00e?raw=true" alt="Extension ON 1"  width="175" height="352"/>
 </p>
 
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bd44fed1-6d99-460d-8f9c-7975127b7070?raw=true" alt="Extension OFF 1"  width="175" height="352"/>
+  <img src="https://github.com/user-attachments/assets/bd44fed1-6d99-460d-8f9c-7975127b7070?raw=true" alt="Extension OFF 2"  width="175" height="352"/>
 
-  <img src="https://github.com/user-attachments/assets/b3963047-fdd7-4a32-9cff-030975da550c?raw=true" alt="Extension OFF 1"  width="175" height="352"/>
+  <img src="https://github.com/user-attachments/assets/b3963047-fdd7-4a32-9cff-030975da550c?raw=true" alt="Extension ON 2"  width="175" height="352"/>
 
-  <img src="https://github.com/user-attachments/assets/79308722-5d6f-42a7-856a-6db78126bb18?raw=true" alt="Extension OFF 1"  width="175" height="352"/>
+  <img src="https://github.com/user-attachments/assets/79308722-5d6f-42a7-856a-6db78126bb18?raw=true" alt="Extension Click & Hold!"  width="175" height="352"/>
 </p>
 
 
