@@ -27,6 +27,33 @@
 <br/>
 
 
+
+
+<p align="left">
+  <img src="https://addons.mozilla.org/user-media/addon_icons/2882/2882493-128.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://addons.mozilla.org/user-media/addon_icons/2882/2882493-128.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://addons.mozilla.org/user-media/addon_icons/2882/2882493-128.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://addons.mozilla.org/user-media/addon_icons/2882/2882493-128.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://addons.mozilla.org/user-media/addon_icons/2882/2882493-128.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
 # MakeURLsClickable
 Make URLs Clickable (Android Mobile &amp; PC)
 Convert plain text URLs into clickable links
