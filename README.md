@@ -66,12 +66,22 @@ Make URLs Clickable (Android Mobile &amp; PC)
 Convert plain text URLs into clickable links
 <br/>
 <br/>
-Make URLs Clickable for Android Firefox. Makes all text a Clickable URL if it starts with "http://", "https://", "www." or end with ".com", ".org", ".net" etc...
+Make URLs Clickable for Android Firefox. Makes all text a Clickable URL if it 
+<br/>
+Starts with:      "http://", "https://",  "w<span>ww.</span>"
+<br/>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OR
+<br/>
+End with:      ".com", ".org", ".net" etc...
+<br/>
+<br/>
 <br/>
 <br/>
 Source Code: https://github.com/MagiKirby/MakeURLsClickable
 <br/>
 <br/>
+<br/>
+
 
 If you would like to use this extension on Android FireFox but can not directly install it, you can use "Mozilla Collections" which is a collection of extensions that installs on Mobile. Here is a Collection that contains this Add-on.
 <br/>
